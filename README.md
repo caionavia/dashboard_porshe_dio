@@ -18,7 +18,6 @@ Todos os indicadores e gráficos são recalculados conforme os filtros aplicados
 Prévia
 Abra o arquivo site-preview.html no navegador para visualizar e interagir com o dashboard.
 
-Para incluir uma captura de tela no repositório, salve uma imagem em assets/dashboard-preview.png e adicione ao README:
 ![Prévia do Porsche Sales Intelligence](dashboard-preview.png)
 Tecnologias
 Tecnologia	Utilização
